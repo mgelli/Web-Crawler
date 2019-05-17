@@ -1,0 +1,4818 @@
+Node URL : https://cs.txstate.edu/accounts/profiles/mo1162/
+Node Id : 206
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/faculty/
+Node Id : 10
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/s_r546/
+	https://cs.txstate.edu/accounts/profiles/lk04/
+	https://cs.txstate.edu/accounts/profiles/ck1224/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/rp44/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+	https://cs.txstate.edu/accounts/profiles/ch01/
+	https://cs.txstate.edu/accounts/profiles/ps03/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/profiles/js236/
+	https://cs.txstate.edu/accounts/profiles/d_c426/
+	https://cs.txstate.edu/accounts/profiles/hag10/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/y_y34/
+	https://cs.txstate.edu/accounts/profiles/jg66/
+	https://cs.txstate.edu/accounts/profiles/vla37/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/accounts/profiles/yl12/
+	https://cs.txstate.edu/accounts/profiles/v_d87/
+	https://cs.txstate.edu/accounts/profiles/j_t463/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/accounts/profiles/ok11/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/accounts/profiles/ma04/
+	https://cs.txstate.edu/accounts/profiles/t_l81/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/pjc78/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/accounts/profiles/lbh31/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/accounts/profiles/gl1082/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/profiles/br02/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/advisors/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_n30/
+Node Id : 218
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/tutors
+Node Id : 60
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/adv34/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/p_b97/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/profiles/mds158/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/pag112/
+	https://cs.txstate.edu/accounts/profiles/mal190/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/k_b388/
+	https://cs.txstate.edu/accounts/profiles/g_h101/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/k_a135/
+	https://cs.txstate.edu/accounts/profiles/sfg11/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/research/software_engineering/
+Node Id : 27
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/adv34/
+Node Id : 136
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/academics/semester_list/summer%20ii/2016/
+Node Id : 150
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/r_t191/
+Node Id : 134
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ar1666/
+Node Id : 188
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/news/detail/4/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/gbg15/
+Node Id : 116
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_m698/
+Node Id : 189
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/accounts/linux/
+Node Id : 242
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/accounts/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/m_r569/
+Node Id : 125
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/mb92/
+Node Id : 65
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/research/hpc/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/pkv5/
+Node Id : 135
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/degree_offerings/mscs/
+Node Id : 237
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/d_c426/
+Node Id : 68
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/employment/student/hourlystudenthiringpacket/
+Node Id : 185
+Outlinks : 
+	https://cs.txstate.edu/employment/student/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/employment/
+Inlinks : 
+	https://cs.txstate.edu/employment/student/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/lab_assistants/
+Node Id : 11
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/profiles/ttc12/
+	https://cs.txstate.edu/accounts/profiles/bld74/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/adv34/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/profiles/mds158/
+	https://cs.txstate.edu/accounts/profiles/bah168/
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/pag112/
+	https://cs.txstate.edu/accounts/profiles/mal190/
+	https://cs.txstate.edu/accounts/profiles/ncp19/
+	https://cs.txstate.edu/accounts/profiles/jtg65/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/g_h101/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/accounts/profiles/rca31/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/k_a135/
+	https://cs.txstate.edu/accounts/profiles/bs1220/
+	https://cs.txstate.edu/accounts/profiles/s_g493/
+	https://cs.txstate.edu/accounts/profiles/sj07/
+	https://cs.txstate.edu/accounts/profiles/p_b97/
+	https://cs.txstate.edu/accounts/profiles/tes58/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/bb1105/
+	https://cs.txstate.edu/accounts/profiles/alh216/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/k_b388/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/zms22/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/sfg11/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/advisors/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/mal190/
+Node Id : 123
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/yl12/
+Node Id : 82
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/research/idig/
+Node Id : 25
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/yl12/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/accounts/profiles/jg66/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/
+Node Id : 20
+Outlinks : 
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/graduate_program/minor/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/academics/graduate_program/thesis_cs/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/graduate_program/minor/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+	https://cs.txstate.edu/accounts/advisors/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/msse/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/mscs/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_v115/
+Node Id : 137
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/academics/semester_list/summer%20ii/2017/
+Node Id : 151
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/349/
+Node Id : 179
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/accounts/profiles/skh83/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/academics/course_list/graduate/
+Node Id : 145
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/course_list/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+	https://cs.txstate.edu/academics/course_list/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ok11/
+Node Id : 79
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/research/hci/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/mh1271/
+Node Id : 139
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ck1272/
+Node Id : 243
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1308/
+
+
+
+Node URL : https://cs.txstate.edu/employment/staff/
+Node Id : 41
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/employment/
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/lbh31/
+Node Id : 75
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/news/awards_day/
+Node Id : 30
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/news/
+	https://cs.txstate.edu/news/awards/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/news/detail/386/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/news/detail/374/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+	https://cs.txstate.edu/news/detail/384/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/detail/360/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/news/detail/239/
+	https://cs.txstate.edu/news/detail/385/
+	https://cs.txstate.edu/news/detail/358/
+	https://cs.txstate.edu/news/detail/371/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/news/detail/349/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/news/detail/4/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/news/detail/387/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/news/detail/383/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+	https://cs.txstate.edu/news/detail/381/
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/news/awards_day/
+
+
+
+Node URL : https://cs.txstate.edu/calendar/1/
+Node Id : 31
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/n_y12/
+Node Id : 226
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/s_g493/
+Node Id : 115
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+Node Id : 239
+Outlinks : 
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ck1224/
+Node Id : 77
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_l354/
+Node Id : 232
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/
+Node Id : 34
+Outlinks : 
+	https://cs.txstate.edu/
+Inlinks : 
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+	https://cs.txstate.edu/labs/
+	https://cs.txstate.edu/resources/labs/accounts/linux/
+	https://cs.txstate.edu/resources/labs/cs1428/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+	https://cs.txstate.edu/resources/independent_study/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+	https://cs.txstate.edu/resources/internship/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_syllabus/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab_rules/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_v342/
+Node Id : 220
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/academics/undergraduate_program/bs/
+Node Id : 158
+Outlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+Inlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+Node Id : 248
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/login/
+Node Id : 43
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/degree_offerings/msse/
+Node Id : 238
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ps03/
+Node Id : 91
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/academics/scheduled_courses/
+Node Id : 17
+Outlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/semester_list/summer%20i/2016/
+	https://cs.txstate.edu/academics/semester_list/summer%20ii/2017/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/semester_list/summer%20ii/2016/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/summer%20i/2017/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+	https://cs.txstate.edu/academics/course_list/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/js236/
+Node Id : 90
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/advisors
+Node Id : 59
+Outlinks : 
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/advisors/
+	https://cs.txstate.edu/accounts/lab_assistants/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/lab_instructors
+Node Id : 58
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/bld74/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/p_b97/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/pag112/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/ncp19/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/k_b388/
+	https://cs.txstate.edu/accounts/profiles/g_h101/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/rca31/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+	https://cs.txstate.edu/accounts/profiles/s_g493/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/tnh34/
+Node Id : 191
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/employment/student/salariedhiringpacket/
+Node Id : 184
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/employment/student/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/358/
+Node Id : 178
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/accounts/profiles/skh83/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/news/latest/feed/
+Node Id : 1
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/academics/undergraduate_program/abet/
+Node Id : 159
+Outlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+Inlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/minor/
+Node Id : 163
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/4/
+Node Id : 49
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/accounts/profiles/ar1666/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jtg47/
+Node Id : 198
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_syllabus/
+Node Id : 244
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/resources/affiliates/
+Node Id : 35
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/
+Node Id : 38
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+	https://cs.txstate.edu/news/detail/4/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_syllabus/
+	https://cs.txstate.edu/resources/labs/accounts/linux/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+	https://cs.txstate.edu/resources/labs/cs1428/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab_rules/
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+Node Id : 246
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/about_us/contact_information/
+Node Id : 4
+Outlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+Inlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/our_location/directions/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/about_us/strategic_plan/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_s741/
+Node Id : 126
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/zms22/
+Node Id : 131
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/stt19/
+Node Id : 133
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/eah77/
+Node Id : 190
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/s_d228/
+Node Id : 111
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/c_c525/
+Node Id : 109
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+Node Id : 252
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jr63/
+Node Id : 142
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/staff/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/tdh50/
+Node Id : 196
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/g_y10/
+Node Id : 95
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/research/software_engineering/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/news/
+Node Id : 28
+Outlinks : 
+	https://cs.txstate.edu/news/detail/385/
+	https://cs.txstate.edu/news/detail/386/
+	https://cs.txstate.edu/news/detail/358/
+	https://cs.txstate.edu/news/detail/371/
+	https://cs.txstate.edu/news/detail/349/
+	https://cs.txstate.edu/news/detail/387/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/news/detail/374/
+	https://cs.txstate.edu/news/detail/383/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/news/
+	https://cs.txstate.edu/news/detail/381/
+	https://cs.txstate.edu/news/detail/384/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/detail/360/
+Inlinks : 
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/employment/student/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/news/
+	https://cs.txstate.edu/news/awards/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/j_k201/
+Node Id : 122
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/e_r242/
+Node Id : 224
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/j_k184/
+Node Id : 225
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_m132/
+Node Id : 194
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/lab_assistants
+Node Id : 57
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/profiles/ttc12/
+	https://cs.txstate.edu/accounts/profiles/bld74/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/adv34/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/profiles/mds158/
+	https://cs.txstate.edu/accounts/profiles/bah168/
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/pag112/
+	https://cs.txstate.edu/accounts/profiles/mal190/
+	https://cs.txstate.edu/accounts/profiles/ncp19/
+	https://cs.txstate.edu/accounts/profiles/jtg65/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/g_h101/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/accounts/profiles/rca31/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/k_a135/
+	https://cs.txstate.edu/accounts/profiles/bs1220/
+	https://cs.txstate.edu/accounts/profiles/s_g493/
+	https://cs.txstate.edu/accounts/profiles/sj07/
+	https://cs.txstate.edu/accounts/profiles/p_b97/
+	https://cs.txstate.edu/accounts/profiles/tes58/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/bb1105/
+	https://cs.txstate.edu/accounts/profiles/alh216/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/k_b388/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/zms22/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/sfg11/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/about_us/
+Node Id : 6
+Outlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/about_us/strategic_plan/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+Inlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/our_location/directions/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/about_us/strategic_plan/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/gsn9/
+Node Id : 210
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_n34/
+Node Id : 207
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/hag10/
+Node Id : 72
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/academics/phd/
+Node Id : 21
+Outlinks : 
+	https://cs.txstate.edu/academics/phd/phdstudents/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/phd/
+Inlinks : 
+	https://cs.txstate.edu/academics/phd/phdstudents/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/news/detail/322/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_s643/
+Node Id : 130
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/cah276/
+Node Id : 118
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jg66/
+Node Id : 71
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/xc10/
+Node Id : 67
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+Node Id : 250
+Outlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/academics/round_rock_campus/
+Node Id : 18
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+
+
+
+Node URL : https://cs.txstate.edu/academics/phd/phdstudents/
+Node Id : 165
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/phd/
+Inlinks : 
+	https://cs.txstate.edu/academics/phd/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/sd14/
+Node Id : 209
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ncp19/
+Node Id : 124
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_d87/
+Node Id : 69
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1308/
+Node Id : 182
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/a_h368/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/profiles/eah77/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/accounts/profiles/ck1272/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/labs/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jao83/
+Node Id : 203
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/academics/semester_list/spring/2016/
+Node Id : 146
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/mo1162/
+	https://cs.txstate.edu/accounts/profiles/tdh50/
+	https://cs.txstate.edu/accounts/profiles/jmm462/
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+	https://cs.txstate.edu/accounts/profiles/a_m698/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+	https://cs.txstate.edu/accounts/profiles/ch01/
+	https://cs.txstate.edu/accounts/profiles/v_m132/
+	https://cs.txstate.edu/accounts/profiles/rm1201/
+	https://cs.txstate.edu/accounts/profiles/s_c293/
+	https://cs.txstate.edu/accounts/profiles/gsn9/
+	https://cs.txstate.edu/accounts/profiles/hag10/
+	https://cs.txstate.edu/accounts/profiles/v_n34/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/profiles/jg66/
+	https://cs.txstate.edu/accounts/profiles/mal190/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+	https://cs.txstate.edu/accounts/profiles/yl12/
+	https://cs.txstate.edu/accounts/profiles/sd14/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/accounts/profiles/ok11/
+	https://cs.txstate.edu/accounts/profiles/ma04/
+	https://cs.txstate.edu/accounts/profiles/jao83/
+	https://cs.txstate.edu/accounts/profiles/jg1883/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/profiles/br02/
+	https://cs.txstate.edu/accounts/profiles/h_b24/
+	https://cs.txstate.edu/accounts/profiles/a_m725/
+	https://cs.txstate.edu/accounts/profiles/lk04/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/rp44/
+	https://cs.txstate.edu/accounts/profiles/ps03/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/profiles/v_v60/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/accounts/profiles/js236/
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/accounts/profiles/tnh34/
+	https://cs.txstate.edu/accounts/profiles/a_h368/
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/accounts/profiles/v_k20/
+	https://cs.txstate.edu/accounts/profiles/v_g132/
+	https://cs.txstate.edu/accounts/profiles/v_r72/
+	https://cs.txstate.edu/accounts/profiles/tmu4/
+	https://cs.txstate.edu/accounts/profiles/jtg47/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/accounts/profiles/t_l81/
+	https://cs.txstate.edu/accounts/profiles/jac346/
+	https://cs.txstate.edu/accounts/profiles/m_e114/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/accounts/profiles/cnc74/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/accounts/profiles/jcf70/
+	https://cs.txstate.edu/accounts/profiles/eah77/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+
+
+
+Node URL : https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+Node Id : 155
+Outlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+Inlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+
+
+
+Node URL : https://cs.txstate.edu/academics/semester_list/spring/2017/
+Node Id : 147
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/v_n30/
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/profiles/tdh50/
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+	https://cs.txstate.edu/accounts/profiles/ch01/
+	https://cs.txstate.edu/accounts/profiles/d_c426/
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/profiles/hag10/
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/profiles/v_c141/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/profiles/jg66/
+	https://cs.txstate.edu/accounts/profiles/mal190/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+	https://cs.txstate.edu/accounts/profiles/v_d87/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/accounts/profiles/ok11/
+	https://cs.txstate.edu/accounts/profiles/ma04/
+	https://cs.txstate.edu/accounts/profiles/j_c545/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/lbh31/
+	https://cs.txstate.edu/accounts/profiles/s_g493/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/profiles/br02/
+	https://cs.txstate.edu/accounts/profiles/s_r546/
+	https://cs.txstate.edu/accounts/profiles/lk04/
+	https://cs.txstate.edu/accounts/profiles/a_v342/
+	https://cs.txstate.edu/accounts/profiles/rp44/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/ps03/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/accounts/profiles/js236/
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/accounts/profiles/tnh34/
+	https://cs.txstate.edu/accounts/profiles/pai11/
+	https://cs.txstate.edu/accounts/profiles/alh216/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/accounts/profiles/m_a200/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/accounts/profiles/t_l81/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/accounts/profiles/eah77/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/pjc78/
+Node Id : 66
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/news/news/
+Node Id : 187
+Outlinks : 
+	https://cs.txstate.edu/news/detail/385/
+	https://cs.txstate.edu/news/detail/386/
+	https://cs.txstate.edu/news/detail/358/
+	https://cs.txstate.edu/news/detail/371/
+	https://cs.txstate.edu/news/detail/349/
+	https://cs.txstate.edu/news/detail/387/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/news/detail/374/
+	https://cs.txstate.edu/news/detail/383/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/news/detail/381/
+	https://cs.txstate.edu/news/detail/384/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/detail/360/
+Inlinks : 
+	https://cs.txstate.edu/news/detail/239/
+	https://cs.txstate.edu/news/detail/385/
+	https://cs.txstate.edu/news/detail/386/
+	https://cs.txstate.edu/news/detail/358/
+	https://cs.txstate.edu/news/detail/371/
+	https://cs.txstate.edu/news/detail/349/
+	https://cs.txstate.edu/news/detail/4/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/news/detail/387/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/news/detail/374/
+	https://cs.txstate.edu/news/detail/383/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/news/detail/381/
+	https://cs.txstate.edu/news/detail/384/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/detail/360/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/k_a135/
+Node Id : 98
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab_rules/
+Node Id : 245
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/cav92/
+Node Id : 227
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/br02/
+Node Id : 88
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+Node Id : 256
+Outlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+Node Id : 160
+Outlinks : 
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/about_us/contact_information/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/lab_instructors/
+Node Id : 12
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/bld74/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/p_b97/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/pag112/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/ncp19/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/k_b388/
+	https://cs.txstate.edu/accounts/profiles/g_h101/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/rca31/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+	https://cs.txstate.edu/accounts/profiles/s_g493/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/advisors/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/367/
+Node Id : 47
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/p_b97/
+Node Id : 101
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/cm04/
+Node Id : 141
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/news/detail/239/
+	https://cs.txstate.edu/news/detail/385/
+	https://cs.txstate.edu/news/detail/386/
+	https://cs.txstate.edu/news/detail/371/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/news/detail/387/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/news/detail/374/
+	https://cs.txstate.edu/news/detail/383/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/news/detail/381/
+	https://cs.txstate.edu/news/detail/384/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/staff/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_c539/
+Node Id : 222
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/research/
+Node Id : 22
+Outlinks : 
+	https://cs.txstate.edu/research/external_research_grants_and_contracts/
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/hci/
+	https://cs.txstate.edu/research/software_engineering/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/research/hpc/
+Inlinks : 
+	https://cs.txstate.edu/research/external_research_grants_and_contracts/
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/hci/
+	https://cs.txstate.edu/research/software_engineering/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/research/hpc/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ans188/
+Node Id : 236
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/academics/semester_list/fall/2016/
+Node Id : 152
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/mo1162/
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/profiles/tdh50/
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+	https://cs.txstate.edu/accounts/profiles/e_r242/
+	https://cs.txstate.edu/accounts/profiles/ch01/
+	https://cs.txstate.edu/accounts/profiles/j_k184/
+	https://cs.txstate.edu/accounts/profiles/d_c426/
+	https://cs.txstate.edu/accounts/profiles/hag10/
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/profiles/sgb62/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+	https://cs.txstate.edu/accounts/profiles/mas431/
+	https://cs.txstate.edu/accounts/profiles/scv13/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/accounts/profiles/ok11/
+	https://cs.txstate.edu/accounts/profiles/ma04/
+	https://cs.txstate.edu/accounts/profiles/s_j140/
+	https://cs.txstate.edu/accounts/profiles/j_c545/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/n_y12/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/profiles/cav92/
+	https://cs.txstate.edu/accounts/profiles/br02/
+	https://cs.txstate.edu/accounts/profiles/tct27/
+	https://cs.txstate.edu/accounts/profiles/lk04/
+	https://cs.txstate.edu/accounts/profiles/a_l354/
+	https://cs.txstate.edu/accounts/profiles/a_v342/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/rp44/
+	https://cs.txstate.edu/accounts/profiles/cgw21/
+	https://cs.txstate.edu/accounts/profiles/ps03/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/profiles/a_c539/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/accounts/profiles/js236/
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/accounts/profiles/tnh34/
+	https://cs.txstate.edu/accounts/profiles/pai11/
+	https://cs.txstate.edu/accounts/profiles/bb1105/
+	https://cs.txstate.edu/accounts/profiles/a_h368/
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/accounts/profiles/jmv88/
+	https://cs.txstate.edu/accounts/profiles/m_a200/
+	https://cs.txstate.edu/accounts/profiles/v_r72/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/accounts/profiles/t_l81/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/accounts/profiles/cnc74/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/accounts/profiles/eah77/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/accounts/profiles/n_r125/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+Node Id : 241
+Outlinks : 
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/h_z14/
+Node Id : 96
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/student_workers
+Node Id : 61
+Outlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/profiles/mh1271/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/mta27/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_h368/
+Node Id : 192
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/erb64/
+Node Id : 103
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+Node Id : 254
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_g132/
+Node Id : 214
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/internship/
+Node Id : 186
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+Inlinks : 
+	https://cs.txstate.edu/employment/student/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/368/
+Node Id : 176
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/m_a200/
+Node Id : 216
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_r72/
+Node Id : 208
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/t_l81/
+Node Id : 81
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+Node Id : 240
+Outlinks : 
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/m_e114/
+Node Id : 215
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/news/scholarships/
+Node Id : 33
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/news/
+Inlinks : 
+	https://cs.txstate.edu/news/detail/239/
+	https://cs.txstate.edu/news/detail/385/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/news/detail/386/
+	https://cs.txstate.edu/news/detail/358/
+	https://cs.txstate.edu/news/detail/371/
+	https://cs.txstate.edu/news/detail/349/
+	https://cs.txstate.edu/news/detail/4/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/news/detail/387/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/news/detail/374/
+	https://cs.txstate.edu/news/detail/383/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/news/detail/381/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/news/detail/384/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/detail/360/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/hd01/
+Node Id : 70
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/faculty
+Node Id : 55
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/s_r546/
+	https://cs.txstate.edu/accounts/profiles/lk04/
+	https://cs.txstate.edu/accounts/profiles/ck1224/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/rp44/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+	https://cs.txstate.edu/accounts/profiles/ch01/
+	https://cs.txstate.edu/accounts/profiles/ps03/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/profiles/js236/
+	https://cs.txstate.edu/accounts/profiles/d_c426/
+	https://cs.txstate.edu/accounts/profiles/hag10/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/y_y34/
+	https://cs.txstate.edu/accounts/profiles/jg66/
+	https://cs.txstate.edu/accounts/profiles/vla37/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/accounts/profiles/yl12/
+	https://cs.txstate.edu/accounts/profiles/v_d87/
+	https://cs.txstate.edu/accounts/profiles/j_t463/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/accounts/profiles/ok11/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/accounts/profiles/ma04/
+	https://cs.txstate.edu/accounts/profiles/t_l81/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/pjc78/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/accounts/profiles/lbh31/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/accounts/profiles/gl1082/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/profiles/br02/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+Node Id : 154
+Outlinks : 
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/msse/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/mscs/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/msse/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/mscs/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+
+
+
+Node URL : https://cs.txstate.edu/about_us/strategic_plan/
+Node Id : 53
+Outlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+Inlinks : 
+	https://cs.txstate.edu/about_us/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/gl1082/
+Node Id : 80
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/academics/semester_list/fall/2017/
+Node Id : 153
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/profiles/bld74/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/accounts/profiles/ch01/
+	https://cs.txstate.edu/accounts/profiles/d_c426/
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/profiles/hag10/
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/jg66/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+	https://cs.txstate.edu/accounts/profiles/yl12/
+	https://cs.txstate.edu/accounts/profiles/v_d87/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/accounts/profiles/ma04/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/accounts/profiles/rca31/
+	https://cs.txstate.edu/accounts/profiles/pjc78/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/lbh31/
+	https://cs.txstate.edu/accounts/profiles/s_g493/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/profiles/br02/
+	https://cs.txstate.edu/accounts/profiles/s_r546/
+	https://cs.txstate.edu/accounts/profiles/lk04/
+	https://cs.txstate.edu/accounts/profiles/ck1224/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/ps03/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/accounts/profiles/js236/
+	https://cs.txstate.edu/accounts/profiles/ans188/
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/accounts/profiles/vla37/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/accounts/profiles/j_t463/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/accounts/profiles/t_l81/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+	https://cs.txstate.edu/accounts/profiles/gl1082/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/researchers/
+Node Id : 54
+Outlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+Inlinks : 
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/advisors/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+Node Id : 249
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/academics/undergraduate_program/
+Node Id : 19
+Outlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+Inlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/seminars/
+Node Id : 162
+Outlinks : 
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/accounts/advisors/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jmm462/
+Node Id : 202
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/322/
+Node Id : 48
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ch01/
+Node Id : 76
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/s_c293/
+Node Id : 193
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/bah168/
+Node Id : 117
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/sgb62/
+Node Id : 230
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/hn12/
+Node Id : 84
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/pag112/
+Node Id : 113
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/academics/course_list/
+Node Id : 144
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/course_list/
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/course_list/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+Node Id : 247
+Outlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/371/
+Node Id : 175
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/employment/faculty/
+Node Id : 40
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/employment/
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/t_b228/
+Node Id : 104
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/g_h101/
+Node Id : 120
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/s_j140/
+Node Id : 235
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/j_c545/
+Node Id : 219
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/381/
+Node Id : 172
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/about_us/disclaimer/
+Node Id : 7
+Outlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+Inlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/our_location/directions/
+	https://cs.txstate.edu/about_us/strategic_plan/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/rca31/
+Node Id : 100
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/research/hpc/
+Node Id : 23
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+
+
+
+Node URL : https://cs.txstate.edu/employment/
+Node Id : 39
+Outlinks : 
+	https://cs.txstate.edu/
+Inlinks : 
+	https://cs.txstate.edu/employment/student/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/employment/faculty/
+	https://cs.txstate.edu/employment/student/hourlystudenthiringpacket/
+	https://cs.txstate.edu/employment/staff/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+Node Id : 257
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/sj07/
+Node Id : 121
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_m725/
+Node Id : 204
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/lk04/
+Node Id : 78
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/sa36/
+Node Id : 138
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/staff/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/384/
+Node Id : 170
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/aq10/
+Node Id : 87
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/research/hpc/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/tes58/
+Node Id : 132
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/skh83/
+Node Id : 140
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/news/detail/358/
+	https://cs.txstate.edu/news/detail/349/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/news/detail/360/
+	https://cs.txstate.edu/accounts/staff/
+
+
+
+Node URL : https://cs.txstate.edu/academics/advising/
+Node Id : 3
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+
+
+
+Node URL : https://cs.txstate.edu/academics/
+Node Id : 16
+Outlinks : 
+	https://cs.txstate.edu/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/msse/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/mscs/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/course_list/
+	https://cs.txstate.edu/academics/phd/phdstudents/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/graduate_program/minor/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/mta27/
+Node Id : 143
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/pai11/
+Node Id : 217
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/vla37/
+Node Id : 64
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/239/
+Node Id : 44
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+Node Id : 251
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/k_b388/
+Node Id : 102
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_m137/
+Node Id : 83
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/383/
+Node Id : 171
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jac346/
+Node Id : 205
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/wp01/
+Node Id : 50
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/news/awards/
+Node Id : 29
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/news/
+	https://cs.txstate.edu/news/awards/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/awards/
+
+
+
+Node URL : https://cs.txstate.edu/about_us/our_location/directions/
+Node Id : 52
+Outlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+Inlinks : 
+	https://cs.txstate.edu/about_us/our_location/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/cnc74/
+Node Id : 213
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jcf70/
+Node Id : 199
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/tutors/
+Node Id : 15
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/adv34/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/p_b97/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/profiles/mds158/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/pag112/
+	https://cs.txstate.edu/accounts/profiles/mal190/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/k_b388/
+	https://cs.txstate.edu/accounts/profiles/g_h101/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/k_a135/
+	https://cs.txstate.edu/accounts/profiles/sfg11/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/advisors/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/sfg11/
+Node Id : 114
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/hs15/
+Node Id : 62
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/research/networking_and_security/
+Node Id : 26
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/n_r125/
+Node Id : 234
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/tutoring/
+Node Id : 181
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/labs/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/dt19/
+Node Id : 92
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/research/hci/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/financial_aid/
+Node Id : 36
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/386/
+Node Id : 168
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ttc12/
+Node Id : 107
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/research/hci/
+Node Id : 24
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+	https://cs.txstate.edu/accounts/profiles/ok11/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+
+
+
+Node URL : https://cs.txstate.edu/news/grants/
+Node Id : 32
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/
+Inlinks : 
+	https://cs.txstate.edu/news/detail/239/
+	https://cs.txstate.edu/news/detail/385/
+	https://cs.txstate.edu/news/detail/386/
+	https://cs.txstate.edu/news/detail/358/
+	https://cs.txstate.edu/news/detail/371/
+	https://cs.txstate.edu/news/detail/349/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/detail/4/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/news/detail/387/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/news/detail/374/
+	https://cs.txstate.edu/news/detail/383/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/news/detail/381/
+	https://cs.txstate.edu/news/detail/384/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/detail/360/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/bld74/
+Node Id : 110
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/labs/
+Node Id : 46
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/academics/semester_list/summer%20i/2017/
+Node Id : 149
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/376/
+Node Id : 173
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/news/
+	https://cs.txstate.edu/news/awards/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/
+Node Id : 258
+Outlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_syllabus/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab_rules/
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_syllabus/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab_rules/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/mds158/
+Node Id : 127
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/rm1201/
+Node Id : 200
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_c141/
+Node Id : 221
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/y_y34/
+Node Id : 94
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_a639/
+Node Id : 99
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/mas431/
+Node Id : 233
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/385/
+Node Id : 169
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/academics/undergraduate_program/ba/
+Node Id : 157
+Outlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+Inlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/scv13/
+Node Id : 231
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jtg65/
+Node Id : 105
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/rp31/
+Node Id : 85
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/research/software_engineering/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/comps/
+Node Id : 161
+Outlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/accounts/
+Node Id : 180
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/accounts/linux/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/labs/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/resources/labs/accounts/linux/
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/ma04/
+Node Id : 63
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/amc400/
+Node Id : 108
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/about_us/iab/
+Node Id : 51
+Outlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/calendar/1/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/news/
+	https://cs.txstate.edu/about_us/contact_information/
+Inlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/our_location/directions/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/about_us/strategic_plan/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/dvf5/
+Node Id : 112
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/bs1220/
+Node Id : 128
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jg1883/
+Node Id : 197
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/mg65/
+Node Id : 74
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/staff/
+Node Id : 13
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/sj07/
+	https://cs.txstate.edu/accounts/profiles/sa36/
+	https://cs.txstate.edu/accounts/profiles/jr63/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/mh1271/
+	https://cs.txstate.edu/accounts/profiles/skh83/
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/advisors/
+
+
+
+Node URL : https://cs.txstate.edu/academics/course_list/undergraduate/
+Node Id : 45
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/course_list/
+Inlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+	https://cs.txstate.edu/academics/course_list/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428
+Node Id : 183
+Outlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_syllabus/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab_rules/
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/labs/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/tct27/
+Node Id : 223
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/h_b24/
+Node Id : 212
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/research/external_research_grants_and_contracts/
+Node Id : 166
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/research/
+Inlinks : 
+	https://cs.txstate.edu/research/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/s_r546/
+Node Id : 89
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/374/
+Node Id : 174
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/cgw21/
+Node Id : 228
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/rp44/
+Node Id : 86
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+Node Id : 253
+Outlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/
+Node Id : 0
+Outlinks : 
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/research/hci/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/labs/
+	https://cs.txstate.edu/research/software_engineering/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/news/
+	https://cs.txstate.edu/accounts/login/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/research/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/lab_assistants/
+	https://cs.txstate.edu/news/detail/239/
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/employment/faculty/
+	https://cs.txstate.edu/resources/independent_study/
+	https://cs.txstate.edu/news/latest/feed/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/news/detail/4/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/affiliates/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/employment/staff/
+	https://cs.txstate.edu/news/awards/
+	https://cs.txstate.edu/accounts/advisors/
+	https://cs.txstate.edu/about_us/contact_information/
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/employment/student/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/calendar/1/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/research/hpc/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/employment/
+Inlinks : 
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/research/software_engineering/
+	https://cs.txstate.edu/accounts/profiles/adv34/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/resources/labs/accounts/linux/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/mscs/
+	https://cs.txstate.edu/accounts/profiles/d_c426/
+	https://cs.txstate.edu/employment/student/hourlystudenthiringpacket/
+	https://cs.txstate.edu/accounts/lab_assistants/
+	https://cs.txstate.edu/accounts/profiles/mal190/
+	https://cs.txstate.edu/accounts/profiles/yl12/
+	https://cs.txstate.edu/research/idig/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/news/detail/349/
+	https://cs.txstate.edu/academics/course_list/graduate/
+	https://cs.txstate.edu/accounts/profiles/ok11/
+	https://cs.txstate.edu/accounts/profiles/mh1271/
+	https://cs.txstate.edu/employment/staff/
+	https://cs.txstate.edu/accounts/profiles/lbh31/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/accounts/profiles/s_g493/
+	https://cs.txstate.edu/academics/graduate_program/comps/prog_exam/
+	https://cs.txstate.edu/accounts/profiles/ck1224/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab1/
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/msse/
+	https://cs.txstate.edu/accounts/profiles/ps03/
+	https://cs.txstate.edu/academics/scheduled_courses/
+	https://cs.txstate.edu/accounts/profiles/js236/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/news/detail/358/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/graduate_program/minor/
+	https://cs.txstate.edu/news/detail/4/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_syllabus/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab0/
+	https://cs.txstate.edu/about_us/contact_information/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/zms22/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab3/
+	https://cs.txstate.edu/accounts/profiles/jr63/
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+	https://cs.txstate.edu/news/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/accounts/profiles/hag10/
+	https://cs.txstate.edu/academics/phd/
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/profiles/jg66/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/phd/phdstudents/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab2/
+	https://cs.txstate.edu/accounts/profiles/ncp19/
+	https://cs.txstate.edu/accounts/profiles/v_d87/
+	https://cs.txstate.edu/resources/labs/cs1308/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/profiles/pjc78/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/accounts/profiles/k_a135/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab_rules/
+	https://cs.txstate.edu/accounts/profiles/br02/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab5/
+	https://cs.txstate.edu/academics/graduate_program/admissions_policy/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/news/detail/367/
+	https://cs.txstate.edu/accounts/profiles/p_b97/
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/research/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/academics/graduate_program/comps/exam_archives/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab4/
+	https://cs.txstate.edu/resources/internship/
+	https://cs.txstate.edu/news/detail/368/
+	https://cs.txstate.edu/accounts/profiles/t_l81/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/academics/graduate_program/comps/comm_exam/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/academics/graduate_program/degree_offerings/
+	https://cs.txstate.edu/about_us/strategic_plan/
+	https://cs.txstate.edu/accounts/profiles/gl1082/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab8/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/news/detail/322/
+	https://cs.txstate.edu/accounts/profiles/ch01/
+	https://cs.txstate.edu/accounts/profiles/bah168/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/profiles/pag112/
+	https://cs.txstate.edu/academics/course_list/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab7/
+	https://cs.txstate.edu/news/detail/371/
+	https://cs.txstate.edu/employment/faculty/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/g_h101/
+	https://cs.txstate.edu/news/detail/381/
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/accounts/profiles/rca31/
+	https://cs.txstate.edu/research/hpc/
+	https://cs.txstate.edu/employment/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab6/
+	https://cs.txstate.edu/accounts/profiles/sj07/
+	https://cs.txstate.edu/accounts/profiles/lk04/
+	https://cs.txstate.edu/accounts/profiles/sa36/
+	https://cs.txstate.edu/news/detail/384/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/tes58/
+	https://cs.txstate.edu/accounts/profiles/skh83/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/accounts/profiles/mta27/
+	https://cs.txstate.edu/accounts/profiles/vla37/
+	https://cs.txstate.edu/news/detail/239/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab9/
+	https://cs.txstate.edu/accounts/profiles/k_b388/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/news/detail/383/
+	https://cs.txstate.edu/news/awards/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/about_us/our_location/directions/
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/profiles/sfg11/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/resources/labs/tutoring/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+	https://cs.txstate.edu/resources/financial_aid/
+	https://cs.txstate.edu/news/detail/386/
+	https://cs.txstate.edu/accounts/profiles/ttc12/
+	https://cs.txstate.edu/research/hci/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/accounts/profiles/bld74/
+	https://cs.txstate.edu/labs/
+	https://cs.txstate.edu/news/detail/376/
+	https://cs.txstate.edu/resources/labs/cs1428/
+	https://cs.txstate.edu/accounts/profiles/mds158/
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/y_y34/
+	https://cs.txstate.edu/news/detail/385/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/accounts/profiles/jtg65/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/academics/graduate_program/comps/
+	https://cs.txstate.edu/resources/labs/accounts/
+	https://cs.txstate.edu/accounts/profiles/ma04/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/bs1220/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/research/external_research_grants_and_contracts/
+	https://cs.txstate.edu/accounts/profiles/s_r546/
+	https://cs.txstate.edu/news/detail/374/
+	https://cs.txstate.edu/accounts/profiles/rp44/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab10/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/news/detail/360/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/profiles/bb1105/
+	https://cs.txstate.edu/accounts/profiles/alh216/
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/resources/independent_study/
+	https://cs.txstate.edu/news/detail/387/
+	https://cs.txstate.edu/accounts/profiles/j_t463/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/accounts/advisors/
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+	https://cs.txstate.edu/employment/student/
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/accounts/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_v60/
+Node Id : 195
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/staff
+Node Id : 56
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/sj07/
+	https://cs.txstate.edu/accounts/profiles/sa36/
+	https://cs.txstate.edu/accounts/profiles/jr63/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/mh1271/
+	https://cs.txstate.edu/accounts/profiles/skh83/
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/360/
+Node Id : 177
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+	https://cs.txstate.edu/accounts/profiles/skh83/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/about_us/our_location/
+Node Id : 5
+Outlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/our_location/directions/
+	https://cs.txstate.edu/about_us/faq/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+Inlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/our_location/directions/
+	https://cs.txstate.edu/about_us/strategic_plan/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/student_workers/
+Node Id : 14
+Outlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/profiles/mh1271/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/profiles/mta27/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/advisors/
+
+
+
+Node URL : https://cs.txstate.edu/academics/graduate_program/thesis_cs/
+Node Id : 164
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/graduate_program/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/bb1105/
+Node Id : 106
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/alh216/
+Node Id : 119
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/zz11/
+Node Id : 97
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/research/hpc/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/v_k20/
+Node Id : 201
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/jmv88/
+Node Id : 229
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+
+
+
+Node URL : https://cs.txstate.edu/resources/independent_study/
+Node Id : 37
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+Inlinks : 
+	https://cs.txstate.edu/
+
+
+
+Node URL : https://cs.txstate.edu/academics/semester_list/summer%20i/2016/
+Node Id : 148
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/scheduled_courses/
+
+
+
+Node URL : https://cs.txstate.edu/news/detail/387/
+Node Id : 167
+Outlinks : 
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/news/grants/
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/news/scholarships/
+Inlinks : 
+	https://cs.txstate.edu/news/news/
+	https://cs.txstate.edu/news/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/j_t463/
+Node Id : 93
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/tmu4/
+Node Id : 211
+Outlinks : 
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/academics/undergraduate_program/credit/
+Node Id : 156
+Outlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/round_rock_campus/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/advising/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/
+	https://cs.txstate.edu/news/awards_day/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/course_list/undergraduate/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+Inlinks : 
+	https://cs.txstate.edu/academics/undergraduate_program/objectives_and_outcomes/
+	https://cs.txstate.edu/academics/undergraduate_program/ba/
+	https://cs.txstate.edu/academics/undergraduate_program/abet/
+	https://cs.txstate.edu/academics/undergraduate_program/
+	https://cs.txstate.edu/academics/undergraduate_program/credit/
+	https://cs.txstate.edu/academics/undergraduate_program/bs/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/advisors/
+Node Id : 9
+Outlinks : 
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/researchers/
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/advisors/
+	https://cs.txstate.edu/accounts/lab_assistants/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/academics/graduate_program/seminars/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/advisors/
+
+
+
+Node URL : https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+Node Id : 255
+Outlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/
+	https://cs.txstate.edu/resources/labs/
+	https://cs.txstate.edu/resources/labs/cs1428/
+Inlinks : 
+	https://cs.txstate.edu/resources/labs/cs1428/cs1428_lab11/
+	https://cs.txstate.edu/resources/labs/cs1428
+	https://cs.txstate.edu/resources/labs/cs1428/
+
+
+
+Node URL : https://cs.txstate.edu/employment/student/
+Node Id : 42
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/resources/internship/
+	https://cs.txstate.edu/employment/student/hourlystudenthiringpacket/
+	https://cs.txstate.edu/employment/student/salariedhiringpacket/
+	https://cs.txstate.edu/employment/
+	https://cs.txstate.edu/news/
+Inlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/employment/student/hourlystudenthiringpacket/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/a_s920/
+Node Id : 129
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/lab_assistants/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/profiles/qg11/
+Node Id : 73
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/
+Inlinks : 
+	https://cs.txstate.edu/academics/semester_list/spring/2017/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/research/networking_and_security/
+	https://cs.txstate.edu/academics/semester_list/fall/2016/
+	https://cs.txstate.edu/academics/semester_list/fall/2017/
+	https://cs.txstate.edu/academics/semester_list/spring/2016/
+
+
+
+Node URL : https://cs.txstate.edu/about_us/faq/
+Node Id : 2
+Outlinks : 
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/academics/phd/
+Inlinks : 
+	https://cs.txstate.edu/about_us/disclaimer/
+	https://cs.txstate.edu/about_us/iab/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/about_us/
+	https://cs.txstate.edu/about_us/our_location/directions/
+	https://cs.txstate.edu/about_us/strategic_plan/
+	https://cs.txstate.edu/about_us/our_location/
+	https://cs.txstate.edu/about_us/contact_information/
+
+
+
+Node URL : https://cs.txstate.edu/accounts/
+Node Id : 8
+Outlinks : 
+	https://cs.txstate.edu/
+Inlinks : 
+	https://cs.txstate.edu/accounts/faculty/
+	https://cs.txstate.edu/accounts/tutors
+	https://cs.txstate.edu/accounts/profiles/adv34/
+	https://cs.txstate.edu/accounts/profiles/r_t191/
+	https://cs.txstate.edu/accounts/profiles/gbg15/
+	https://cs.txstate.edu/accounts/profiles/m_r569/
+	https://cs.txstate.edu/accounts/profiles/ch01/
+	https://cs.txstate.edu/accounts/profiles/mb92/
+	https://cs.txstate.edu/accounts/profiles/pkv5/
+	https://cs.txstate.edu/accounts/profiles/bah168/
+	https://cs.txstate.edu/accounts/profiles/d_c426/
+	https://cs.txstate.edu/accounts/profiles/hn12/
+	https://cs.txstate.edu/accounts/profiles/pag112/
+	https://cs.txstate.edu/accounts/lab_assistants/
+	https://cs.txstate.edu/accounts/profiles/mal190/
+	https://cs.txstate.edu/accounts/profiles/yl12/
+	https://cs.txstate.edu/accounts/profiles/t_b228/
+	https://cs.txstate.edu/accounts/profiles/v_v115/
+	https://cs.txstate.edu/accounts/profiles/ok11/
+	https://cs.txstate.edu/accounts/profiles/g_h101/
+	https://cs.txstate.edu/accounts/profiles/mh1271/
+	https://cs.txstate.edu/accounts/profiles/rca31/
+	https://cs.txstate.edu/accounts/profiles/lbh31/
+	https://cs.txstate.edu/accounts/profiles/s_g493/
+	https://cs.txstate.edu/accounts/profiles/sj07/
+	https://cs.txstate.edu/accounts/profiles/lk04/
+	https://cs.txstate.edu/accounts/profiles/ck1224/
+	https://cs.txstate.edu/accounts/profiles/sa36/
+	https://cs.txstate.edu/accounts/profiles/aq10/
+	https://cs.txstate.edu/accounts/profiles/tes58/
+	https://cs.txstate.edu/accounts/profiles/skh83/
+	https://cs.txstate.edu/accounts/profiles/ps03/
+	https://cs.txstate.edu/accounts/profiles/js236/
+	https://cs.txstate.edu/accounts/advisors
+	https://cs.txstate.edu/accounts/lab_instructors
+	https://cs.txstate.edu/accounts/profiles/mta27/
+	https://cs.txstate.edu/accounts/profiles/vla37/
+	https://cs.txstate.edu/accounts/profiles/k_b388/
+	https://cs.txstate.edu/accounts/profiles/v_m137/
+	https://cs.txstate.edu/accounts/profiles/wp01/
+	https://cs.txstate.edu/accounts/profiles/a_s741/
+	https://cs.txstate.edu/accounts/profiles/zms22/
+	https://cs.txstate.edu/accounts/profiles/stt19/
+	https://cs.txstate.edu/accounts/tutors/
+	https://cs.txstate.edu/accounts/profiles/sfg11/
+	https://cs.txstate.edu/accounts/profiles/hs15/
+	https://cs.txstate.edu/accounts/profiles/s_d228/
+	https://cs.txstate.edu/accounts/profiles/dt19/
+	https://cs.txstate.edu/accounts/profiles/ttc12/
+	https://cs.txstate.edu/accounts/profiles/c_c525/
+	https://cs.txstate.edu/accounts/profiles/jr63/
+	https://cs.txstate.edu/accounts/profiles/bld74/
+	https://cs.txstate.edu/accounts/profiles/g_y10/
+	https://cs.txstate.edu/accounts/profiles/j_k201/
+	https://cs.txstate.edu/accounts/lab_assistants
+	https://cs.txstate.edu/accounts/profiles/mds158/
+	https://cs.txstate.edu/accounts/profiles/hag10/
+	https://cs.txstate.edu/accounts/profiles/a_s643/
+	https://cs.txstate.edu/accounts/profiles/cah276/
+	https://cs.txstate.edu/accounts/profiles/jg66/
+	https://cs.txstate.edu/accounts/profiles/y_y34/
+	https://cs.txstate.edu/accounts/profiles/a_a639/
+	https://cs.txstate.edu/accounts/profiles/xc10/
+	https://cs.txstate.edu/accounts/profiles/ncp19/
+	https://cs.txstate.edu/accounts/profiles/v_d87/
+	https://cs.txstate.edu/accounts/profiles/jtg65/
+	https://cs.txstate.edu/accounts/profiles/rp31/
+	https://cs.txstate.edu/accounts/profiles/ma04/
+	https://cs.txstate.edu/accounts/profiles/amc400/
+	https://cs.txstate.edu/accounts/profiles/pjc78/
+	https://cs.txstate.edu/accounts/profiles/dvf5/
+	https://cs.txstate.edu/accounts/profiles/k_a135/
+	https://cs.txstate.edu/accounts/profiles/bs1220/
+	https://cs.txstate.edu/accounts/profiles/mg65/
+	https://cs.txstate.edu/accounts/staff/
+	https://cs.txstate.edu/accounts/profiles/br02/
+	https://cs.txstate.edu/accounts/profiles/s_r546/
+	https://cs.txstate.edu/accounts/lab_instructors/
+	https://cs.txstate.edu/accounts/profiles/p_b97/
+	https://cs.txstate.edu/accounts/profiles/rp44/
+	https://cs.txstate.edu/accounts/profiles/cm04/
+	https://cs.txstate.edu/
+	https://cs.txstate.edu/accounts/staff
+	https://cs.txstate.edu/accounts/profiles/h_z14/
+	https://cs.txstate.edu/accounts/student_workers
+	https://cs.txstate.edu/accounts/student_workers/
+	https://cs.txstate.edu/accounts/profiles/bb1105/
+	https://cs.txstate.edu/accounts/profiles/alh216/
+	https://cs.txstate.edu/accounts/profiles/zz11/
+	https://cs.txstate.edu/accounts/profiles/erb64/
+	https://cs.txstate.edu/accounts/profiles/j_t463/
+	https://cs.txstate.edu/accounts/profiles/t_l81/
+	https://cs.txstate.edu/accounts/advisors/
+	https://cs.txstate.edu/accounts/profiles/hd01/
+	https://cs.txstate.edu/accounts/faculty
+	https://cs.txstate.edu/accounts/profiles/a_s920/
+	https://cs.txstate.edu/accounts/profiles/qg11/
+	https://cs.txstate.edu/accounts/profiles/gl1082/
+	https://cs.txstate.edu/accounts/researchers/
+
+
+
+
